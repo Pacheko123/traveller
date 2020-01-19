@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Traveller</string>
+    <string name="minimum_password">Password too short</string>
+    <string name="auth_failed">Invalid Credentials</string>
+    <string name="empty_mail">Enter email</string>
+</resources>
